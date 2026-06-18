@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-18 15:34 UTC_
+_Last updated 2026-06-18 15:55 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-18 15:34 UTC_
 | Take profit | 45% |
 | Stop loss | -22% |
 | Risk per trade | 18% |
-| Adaptive bias | 0.070 |
+| Adaptive bias | 0.015 |
 
 ## Learning state
 
-- Closed trades: **48**
-- Win rate (last 30): **50%**
+- Closed trades: **51**
+- Win rate (last 30): **43%**
 - Win / loss streak: **0** / **1**
 - Mutations adopted: **0**
-- SOL balance: **0.388**
-- Dominant emotions: anticipation 99, fear 94, sadness 77
+- SOL balance: **0.386**
+- Dominant emotions: anticipation 98, fear 95, sadness 78
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $NAILSCOIN | -15.0% | 18m |
+| $STRETEGY | +131.0% | 6m |
+| $LSTR | -7.0% | 15m |
 | $ELWIWI | -35.0% | 1m |
 | $NAILSCOIN | +12.0% | 20m |
 | $STRETEGY | -50.0% | 4m |
-| $LSTR | -44.0% | 5m |
-| $LSTR | -7.0% | 16m |
-| $NAILSCOIN | +5.0% | 12m |
