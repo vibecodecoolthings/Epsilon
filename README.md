@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-18 18:41 UTC_
+_Last updated 2026-06-18 19:02 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-18 18:41 UTC_
 | Take profit | 45% |
 | Stop loss | -22% |
 | Risk per trade | 18% |
-| Adaptive bias | -0.082 |
+| Adaptive bias | -0.144 |
 
 ## Learning state
 
-- Closed trades: **78**
-- Win rate (last 30): **53%**
-- Win / loss streak: **0** / **1**
+- Closed trades: **81**
+- Win rate (last 30): **60%**
+- Win / loss streak: **3** / **0**
 - Mutations adopted: **0**
-- SOL balance: **0.454**
-- Dominant emotions: anticipation 100, joy 70, trust 61
+- SOL balance: **0.534**
+- Dominant emotions: anticipation 97, joy 91, trust 69
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $LIONX  | +57.0% | 7m |
+| $STRETEGY | +2.0% | 17m |
+| $LIONX  | +62.0% | 1m |
 | $NAILSCOIN | -2.0% | 17m |
 | $LIONX  | +58.0% | 1m |
 | $LIONX  | +65.0% | 1m |
-| $STRETEGY | -3.0% | 12m |
-| $LIONX  | +49.0% | 4m |
-| $Caín | +4.0% | 16m |
