@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-20 20:27 UTC_
+_Last updated 2026-06-20 20:48 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-20 20:27 UTC_
 | Take profit | 45% |
 | Stop loss | -22% |
 | Risk per trade | 18% |
-| Adaptive bias | 0.147 |
+| Adaptive bias | 0.150 |
 
 ## Learning state
 
-- Closed trades: **378**
-- Win rate (last 30): **63%**
-- Win / loss streak: **0** / **4**
+- Closed trades: **383**
+- Win rate (last 30): **50%**
+- Win / loss streak: **0** / **9**
 - Mutations adopted: **1**
-- SOL balance: **3891.352**
-- Dominant emotions: fear 98, anticipation 97, sadness 87
+- SOL balance: **3165.896**
+- Dominant emotions: anticipation 100, fear 97, sadness 96
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $CASHBACK | -35.0% | 1m |
+| $CASHBACK | -43.0% | 1m |
+| $CASHBACK | -50.0% | 1m |
+| $CASHBACK | -36.0% | 1m |
+| $CASHBACK | -28.0% | 1m |
 | $CASHBACK | -25.0% | 1m |
-| $CASHBACK | -39.0% | 1m |
-| $CASHBACK | -44.0% | 1m |
-| $CASHBACK | -52.0% | 1m |
-| $Paz | +0.0% | 19m |
-| $CASHBACK | -46.0% | 1m |
