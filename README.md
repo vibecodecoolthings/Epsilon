@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-20 02:58 UTC_
+_Last updated 2026-06-20 03:19 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-20 02:58 UTC_
 | Take profit | 45% |
 | Stop loss | -22% |
 | Risk per trade | 18% |
-| Adaptive bias | -0.036 |
+| Adaptive bias | -0.108 |
 
 ## Learning state
 
-- Closed trades: **307**
-- Win rate (last 30): **70%**
-- Win / loss streak: **2** / **0**
+- Closed trades: **310**
+- Win rate (last 30): **77%**
+- Win / loss streak: **5** / **0**
 - Mutations adopted: **1**
-- SOL balance: **2985.675**
-- Dominant emotions: anticipation 99, joy 82, trust 65
+- SOL balance: **3267.604**
+- Dominant emotions: anticipation 98, joy 96, trust 73
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $greg | +61.0% | 11m |
+| $CFROG | +1.0% | 15m |
+| $greg | +98.0% | 9m |
 | $CFROG | +2.0% | 16m |
 | $greg | +16.0% | 20m |
-| $NAILSCOIN | +0.0% | 14m |
-| $TIDE | -1.0% | 19m |
-| $greg | +18.0% | 13m |
 | $NAILSCOIN | +0.0% | 14m |
