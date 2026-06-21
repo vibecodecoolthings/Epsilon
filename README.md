@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-21 14:51 UTC_
+_Last updated 2026-06-21 15:12 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-21 14:51 UTC_
 | Take profit | 40% |
 | Stop loss | -22% |
 | Risk per trade | 16% |
-| Adaptive bias | 0.004 |
+| Adaptive bias | -0.000 |
 
 ## Learning state
 
-- Closed trades: **516**
+- Closed trades: **518**
 - Win rate (last 30): **53%**
 - Win / loss streak: **1** / **0**
 - Mutations adopted: **3**
-- SOL balance: **5208.197**
-- Dominant emotions: anticipation 93, joy 65, trust 58
+- SOL balance: **6198.205**
+- Dominant emotions: anticipation 92, joy 64, trust 57
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $Gaejuki | +32.0% | 18m |
+| $ARC | +0.0% | 11m |
 | $Gaejuki | +5.0% | 19m |
 | $Gaejuki | -7.0% | 14m |
 | $VOICEBOX | +0.0% | 21m |
 | $Gaejuki | +6.0% | 15m |
-| $VOICEBOX | +0.0% | 13m |
-| $Gaejuki | +3.0% | 14m |
