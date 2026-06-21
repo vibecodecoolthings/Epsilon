@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-21 16:36 UTC_
+_Last updated 2026-06-21 16:56 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-21 16:36 UTC_
 | Take profit | 40% |
 | Stop loss | -22% |
 | Risk per trade | 16% |
-| Adaptive bias | -0.040 |
+| Adaptive bias | -0.024 |
 
 ## Learning state
 
-- Closed trades: **530**
-- Win rate (last 30): **63%**
-- Win / loss streak: **2** / **0**
+- Closed trades: **532**
+- Win rate (last 30): **60%**
+- Win / loss streak: **1** / **0**
 - Mutations adopted: **3**
-- SOL balance: **6073.244**
-- Dominant emotions: anticipation 99, joy 67, trust 61
+- SOL balance: **7001.728**
+- Dominant emotions: anticipation 95, joy 63, trust 59
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $Gaejuki | +8.0% | 15m |
+| $CHEEZYRL | -30.0% | 1m |
 | $Gaejuki | +50.0% | 2m |
 | $Gaejuki | +67.0% | 5m |
 | $gato | -28.0% | 14m |
 | $CHEEZYRL | -32.0% | 6m |
-| $Caín | -5.0% | 30m |
-| $CHEEZYRL | -24.0% | 10m |
