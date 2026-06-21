@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-21 18:39 UTC_
+_Last updated 2026-06-21 18:59 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-21 18:39 UTC_
 | Take profit | 40% |
 | Stop loss | -22% |
 | Risk per trade | 16% |
-| Adaptive bias | -0.074 |
+| Adaptive bias | 0.044 |
 
 ## Learning state
 
-- Closed trades: **546**
-- Win rate (last 30): **67%**
-- Win / loss streak: **0** / **1**
+- Closed trades: **552**
+- Win rate (last 30): **50%**
+- Win / loss streak: **0** / **5**
 - Mutations adopted: **3**
-- SOL balance: **6135.489**
-- Dominant emotions: anticipation 92, joy 68, trust 60
+- SOL balance: **7417.658**
+- Dominant emotions: anticipation 98, fear 97, sadness 80
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $LION | -23.0% | 14m |
-| $THE COUNCIL | +74.0% | 14m |
-| $Perro | +11.0% | 15m |
-| $LION | +21.0% | 18m |
-| $LION | -20.0% | 6m |
-| $CHEEZYRL | +93.0% | 8m |
+| $Perro | -33.0% | 2m |
+| $Perro | -45.0% | 1m |
+| $Nudaeng | -2.0% | 16m |
+| $Perro | -42.0% | 1m |
+| $Perro | -61.0% | 18m |
+| $gato | +27.0% | 22m |
