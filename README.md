@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-21 03:34 UTC_
+_Last updated 2026-06-21 03:55 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-21 03:34 UTC_
 | Take profit | 45% |
 | Stop loss | -22% |
 | Risk per trade | 16% |
-| Adaptive bias | 0.002 |
+| Adaptive bias | -0.008 |
 
 ## Learning state
 
-- Closed trades: **444**
+- Closed trades: **445**
 - Win rate (last 30): **90%**
-- Win / loss streak: **2** / **0**
+- Win / loss streak: **3** / **0**
 - Mutations adopted: **2**
-- SOL balance: **2616.079**
-- Dominant emotions: anticipation 100, joy 82, trust 73
+- SOL balance: **2602.590**
+- Dominant emotions: anticipation 96, joy 81, trust 69
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $CHEEZYRL | +0.0% | 13m |
 | $CHEEZYRL | +1.0% | 16m |
 | $NEXUS | +1.0% | 16m |
 | $ALICE | -1.0% | 22m |
 | $CHEEZYRL | -16.0% | 18m |
 | $NEXUS | +1.0% | 17m |
-| $CHEEZYRL | +3.0% | 17m |
