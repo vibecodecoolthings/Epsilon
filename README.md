@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-21 21:45 UTC_
+_Last updated 2026-06-21 22:06 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-21 21:45 UTC_
 | Take profit | 40% |
 | Stop loss | -22% |
 | Risk per trade | 16% |
-| Adaptive bias | -0.022 |
+| Adaptive bias | 0.076 |
 
 ## Learning state
 
-- Closed trades: **581**
-- Win rate (last 30): **50%**
-- Win / loss streak: **0** / **1**
+- Closed trades: **586**
+- Win rate (last 30): **47%**
+- Win / loss streak: **0** / **6**
 - Mutations adopted: **3**
-- SOL balance: **6844.959**
-- Dominant emotions: anticipation 99, fear 88, sadness 77
+- SOL balance: **6737.678**
+- Dominant emotions: fear 100, sadness 99, anticipation 98
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $Gaejook | -14.0% | 18m |
+| $Tartugito | -8.0% | 20m |
+| $vibes | -23.0% | 2m |
+| $vibes | -40.0% | 4m |
+| $Gaejook | -21.0% | 6m |
 | $vibes | -13.0% | 11m |
-| $vibes | +69.0% | 6m |
-| $vibes | -43.0% | 1m |
-| $Gaejook | -30.0% | 7m |
-| $vibes | -29.0% | 11m |
-| $vibes | +49.0% | 5m |
