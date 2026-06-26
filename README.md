@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-26 05:43 UTC_
+_Last updated 2026-06-26 06:04 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-26 05:43 UTC_
 | Take profit | 45% |
 | Stop loss | -22% |
 | Risk per trade | 18% |
-| Adaptive bias | -0.048 |
+| Adaptive bias | -0.019 |
 
 ## Learning state
 
-- Closed trades: **161**
-- Win rate (last 30): **63%**
-- Win / loss streak: **1** / **0**
+- Closed trades: **165**
+- Win rate (last 30): **70%**
+- Win / loss streak: **0** / **2**
 - Mutations adopted: **0**
-- SOL balance: **636.123**
-- Dominant emotions: anticipation 98, joy 78, trust 63
+- SOL balance: **578.190**
+- Dominant emotions: anticipation 97, joy 65, trust 59
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $Shartcoin | -31.0% | 9m |
+| $cum | -3.0% | 12m |
+| $liquititty | +15.0% | 15m |
+| $gato | +0.0% | 18m |
 | $shit | +40.0% | 17m |
 | $liquititty | -4.0% | 14m |
-| $shit | +54.0% | 3m |
-| $TUX | +0.0% | 10m |
-| $liquititty | +14.0% | 16m |
-| $STAR | +0.0% | 14m |
