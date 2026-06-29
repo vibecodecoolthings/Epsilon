@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-29 11:31 UTC_
+_Last updated 2026-06-29 11:52 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-29 11:31 UTC_
 | Take profit | 45% |
 | Stop loss | -22% |
 | Risk per trade | 18% |
-| Adaptive bias | -0.019 |
+| Adaptive bias | -0.021 |
 
 ## Learning state
 
-- Closed trades: **421**
+- Closed trades: **425**
 - Win rate (last 30): **47%**
-- Win / loss streak: **5** / **0**
+- Win / loss streak: **0** / **1**
 - Mutations adopted: **1**
 - SOL balance: **0.108**
-- Dominant emotions: anticipation 93, joy 91, trust 56
+- Dominant emotions: anticipation 97, joy 74, anger 59
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $Speedrun | -20.0% | 5m |
+| $BULLCAT | +5.0% | 16m |
+| $ANSEM | -5.0% | 19m |
+| $Speedrun | +27.0% | 13m |
 | $TATE | +1.0% | 15m |
 | $Bullshit | +15.0% | 13m |
-| $ACT | +0.0% | 14m |
-| $ACT | +2.0% | 17m |
-| $TATE | +28.0% | 12m |
-| $BULLCAT | -1.0% | 21m |
